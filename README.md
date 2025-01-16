@@ -1,4 +1,4 @@
-### <div><h3>👋 Hi, I'm Ice!</h3><h4>A passionate Front-End Developer 💻</h4><h4>working remotely since 2019 🚀</h4></div>
+### <div><h3>👋 Hi, I'm Ice!</h3><h4>A passionate Front-End Developer 💻</h4><h4>coding since 2019 🚀</h4></div>
 
 <br/>
 <br/>
