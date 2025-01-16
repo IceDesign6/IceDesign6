@@ -4,7 +4,7 @@
 <br/>
 
 
-- 🌱 I am learning how to develop an npm library.
+- 🌱 I am learning how to create and publish an NPM package.
 
 
 <br/>
